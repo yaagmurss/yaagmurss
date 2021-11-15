@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @yaagmurss
 - 👀 I’m interested in RPA and uipath
 - 🌱 I’m currently learning C#
-- 📫 How to reach me www.linkedin.com/in/yagmursolmaz
+

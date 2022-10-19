@@ -1,4 +1,3 @@
-- Hi there, 
-- I’m @yaagmurss
-- I'm learning C# :)
+-Hi there, I’m @yaagmurss
+-I'm learning C# :)
 

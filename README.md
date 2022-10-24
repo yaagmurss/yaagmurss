@@ -1,4 +1,4 @@
 -Hi there, I’m @yaagmurss
 
--I'm learning C# :)
+-I'm writing C# :)
 

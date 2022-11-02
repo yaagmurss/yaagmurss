@@ -1,6 +1,6 @@
 Hey!
 
-I'm Yagmur!
+I'm **Yagmur**!
 
 I work as Software Developer with focus of scalability and sustainability.
 

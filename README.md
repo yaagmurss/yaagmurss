@@ -25,5 +25,3 @@ I work as Software Developer with focus of scalability and sustainability.
 **LinkedIn** https://www.linkedin.com/in/yagmursolmaz/ 
 
 **LeetCode**  https://leetcode.com/yaagmurss/
-
-**Medium** https://medium.com/@yagmursolmaz

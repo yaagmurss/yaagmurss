@@ -2,7 +2,7 @@ Hey!
 
 I'm **Yagmur**!
 
-I work as Software Developer with focus of scalability and sustainability.
+I work as Rpa Developer with focus of scalability and sustainability.
 
 - 🎓 Having engineering BS degree
 - 👨‍🏫 Developed large scaled Rpa project for a private bank
@@ -14,7 +14,7 @@ I work as Software Developer with focus of scalability and sustainability.
 - 📈 About two years experience with RPA tools
 - 📈 Worked with both SOAP and REST API's
 - 📈 Dealing with Json and Xml data structure 
-- 📈 C#, ASP.NET, EFCore, Uipath
+- 📈 C#, ASP.NET, Uipath
 - 📈 LINQ, T-Sql 
 - 📈 Familiar with Object Oriented Programming
 

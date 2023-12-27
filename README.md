@@ -14,8 +14,7 @@ I work as Rpa Developer with focus of scalability and sustainability.
 - 📈 About two years experience with RPA tools
 - 📈 Worked with both SOAP and REST API's
 - 📈 Dealing with Json and Xml data structure 
-- 📈 C#, ASP.NET, Uipath
-- 📈 LINQ, T-Sql 
+- 📈 C#, Python, Uipath 
 - 📈 Familiar with Object Oriented Programming
 
 ---

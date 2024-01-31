@@ -6,8 +6,7 @@ I work as Rpa Developer with focus of scalability and sustainability.
 
 - 🎓 Having engineering BS degree
 - 👨‍🏫 Developed large scaled Rpa project for a private bank
-- 🏫 An article published in International Artificial Intelligence in Health Congres
-- 👨‍🏫 Participated in the Estü Data Science Club as a board member and joined competitions in Kaggle
+- 👨‍🏫 Participated in the Estü Data Science Club as a board member 
 
 ---
 

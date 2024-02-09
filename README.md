@@ -8,8 +8,6 @@ I work as Rpa Developer with focus of scalability and sustainability.
 - 👨‍🏫 Developed large scaled Rpa project for a private bank
 - 👨‍🏫 Participated in the Estü Data Science Club as a board member 
 
----
-
 - 📈 About two years experience with RPA tools
 - 📈 Worked with both SOAP and REST API's
 - 📈 Dealing with Json and Xml data structure 

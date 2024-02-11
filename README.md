@@ -16,10 +16,10 @@ I work as Rpa Developer with focus of scalability and sustainability.
 
 ---
 
-📫 You can reach me via yagmursolmaz0056@gmail.com
+📫 You can reach me via ***yagmursolmaz0056@gmail.com***
 
-**LinkedIn** https://www.linkedin.com/in/yagmursolmaz/ 
+📫 **LinkedIn** https://www.linkedin.com/in/yagmursolmaz/ 
 
-**LeetCode**  https://leetcode.com/yaagmurss/
+📫 **LeetCode**  https://leetcode.com/yaagmurss/
 
-**Medium** https://medium.com/@yagmursolmaz
+📫 **Medium** https://medium.com/@yagmursolmaz

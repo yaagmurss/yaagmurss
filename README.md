@@ -2,7 +2,7 @@ Hey!
 
 I'm **Yagmur**!
 
-I work as Rpa Developer with focus of scalability and sustainability.
+I work as Robotic Process Automation Developer with focus of scalability and sustainability.
 
 - 🎓 Having engineering BS degree
 - 👨‍🏫 Developed large scaled Rpa project for a private bank

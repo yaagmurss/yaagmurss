@@ -11,7 +11,7 @@ I work as Robotic Process Automation Developer with focus of scalability and sus
 - 📈 About 3 years experience with RPA tools
 - 📈 Worked with both SOAP and REST API's
 - 📈 Dealing with Json and Xml data structure 
-- 📈 C#, Python, Uipath 
+- 📈 Basic knowledge of C#, Python, Uipath 
 - 📈 Familiar with Object Oriented Programming
 
 ---

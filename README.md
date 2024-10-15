@@ -2,7 +2,7 @@ Hey!
 
 I'm **Yagmur**!
 
-Robotic Process Automation Developer with focus of scalability and sustainability.
+Automation Developer with focus of scalability and sustainability.
 
 - 🎓 Engineering BS degree
 - 📈 Developed large scaled Rpa projects

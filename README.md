@@ -4,15 +4,14 @@ I'm **Yagmur**!
 
 I work as Robotic Process Automation Developer with focus of scalability and sustainability.
 
-- 🎓 Having engineering BS degree
-- 👨‍🏫 Developed large scaled Rpa project for a private bank
-- 👨‍🏫 Participated in the Estü Data Science Club as a board member 
+- 🎓 Engineering BS degree
+- 👨‍🏫 Developed large scaled Rpa projects
 
-- 📈 About 3 years experience with RPA tools
+- 📈 3 years experience with RPA tools
+- 📈 Strong knowledge about Uipath
 - 📈 Worked with both SOAP and REST API's
-- 📈 Dealing with Json and Xml data structure 
-- 📈 Basic knowledge of C#, Python, Uipath 
-- 📈 Familiar with Object Oriented Programming
+- 📈 Familiar with Json and Xml data structure 
+- 📈 Basic knowledge about C#, Python and Object Oriented Programming
 
 ---
 

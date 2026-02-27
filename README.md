@@ -6,7 +6,7 @@ Automation Developer with focus of scalability and sustainability.
 
 - 🎓 Engineering BS degree
 - 📈 Developed large scaled Rpa projects
-- 📈 5 years experience with RPA tools
+- 📈 5 years experience with RPA tools like UIpath
 - 📈 Strong knowledge about Uipath Studio and Uipath Orchestrator
 - 📈 Worked with both SOAP and REST API's
 - 📈 Familiar with Json and Xml data structure

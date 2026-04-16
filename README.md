@@ -2,8 +2,6 @@ Hey!
 
 I'm **Yagmur**!
 
-Automation Developer with focus of scalability and sustainability.
-
 - 🎓 Engineering BS degree
 - 📈 Developed large scaled Rpa projects
 - 📈 5 years experience with RPA tools like UIpath

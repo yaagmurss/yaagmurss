@@ -16,6 +16,4 @@ I'm **Yagmur**!
 
 📫 **LinkedIn** https://www.linkedin.com/in/yagmursolmaz/ 
 
-📫 **LeetCode**  https://leetcode.com/yaagmurss/
-
 📫 **Medium** https://medium.com/@yagmursolmaz
